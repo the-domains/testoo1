@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T10:25:01.799Z'
+datePublished: '2016-08-02T10:25:01.813Z'
 sourcePath: >-
   _posts/2016-04-16-rising-dawn-rolls-royce-debut-handsome-new-soft-top-or-lifes.md
 inFeed: true
@@ -22,7 +22,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-02T10:24:49.290Z'
+dateModified: '2016-08-02T10:24:57.214Z'
 title: 'Rising dawn: Rolls-Royce debut handsome new soft-top.'
 app_links: []
 publisher:
