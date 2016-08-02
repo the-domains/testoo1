@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-02T10:25:01.771Z'
+datePublished: '2016-08-02T11:16:25.299Z'
 sourcePath: _posts/2016-04-19-illustration.md
 inFeed: true
-isBasedOnUrl: 'http://www.thisiscolossal.com/category/illustration/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - brodeur
   - lamadieu
@@ -24,7 +23,7 @@ author:
   - name: Kate Sierzputowski
     url: 'http://katesierzputowski.com/'
     avatar: {}
-dateModified: '2016-08-02T10:24:37.338Z'
+dateModified: '2016-08-02T11:16:24.764Z'
 title: Illustration
 app_links: []
 publisher:
@@ -43,6 +42,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: illustration/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
