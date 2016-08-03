@@ -1,4 +1,4 @@
-typography_spectrum: 0.30131255905143917
+typography_spectrum: 0.43479647510685027
 color:
   brandStrength: 0.44914451823569834
   lightness: 0.121379324933514
@@ -10,7 +10,7 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-layout_spectrum: 0.033685920760035515
+layout_spectrum: 0.5299191412050277
 name: Testoo1
 navigation: []
 title: Tech News
