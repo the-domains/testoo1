@@ -12,7 +12,4 @@ color:
     - '#6B574B'
     - '#160600'
 name: Testoo1
-navigation:
-  - name: Illustration
-    id: 74ec9397-dee1-4dce-b03d-64981b3ec045
-    type: content
+navigation: []
